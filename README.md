@@ -13,11 +13,11 @@ Detail-oriented and passionate Software Developer with 5 years of experience in 
   **Company:** PTT Digital Solutions Company Limited (PTT Digital)   
   **Stack:** `React`,`C#`, `.NET`, `Microsoft SQL Server`, `Azure DevOps` , `Docker`
 
-- 🌐 **Build web payment for parking at ONESIAM, CentralWorld, Central Bangna to scan QR code and pay**  
+- 🌐 **Build web payment for parking at ONESIAM, ICONSIAM , ICS, CentralWorld, Central Bangna to scan QR code and pay**  
   **Company:** PSS GROUP (THAILAND) COMPANY LIMITED.  
   **Stack:** `HTML`, `Javascript`, `CSS`, `C#`, `.net core`, `Microsoft SQL Server`
 
-- 📊 **Build a web stamp for parking at ONESIAM, CentralWorld, Central Bangna to discount in web payment**  
+- 📊 **Build a web stamp for parking at ONESIAM, ICONSIAM , ICS, CentralWorld, Central Bangna to discount in web payment**  
   **Company:** PSS GROUP (THAILAND) COMPANY LIMITED.   
   **Stack:** `HTML`, `Javascript`, `CSS`, `C#`, `.net core`, `Microsoft SQL Server`
 
