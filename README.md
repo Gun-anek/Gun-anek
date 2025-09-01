@@ -51,5 +51,7 @@ Detail-oriented and passionate Software Developer with 5 years of experience in 
    <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_SQL_Server_2025_icon.svg"alt="Microsoft SQL Server"width="36" height="36" />
 </a>
 </p>
-
+<a href="https://gun-anek.github.io/react-portfolio/" target="_blank" rel="noopener noreferrer">
+  Visit my portfolio
+</a>
 
